@@ -1,0 +1,326 @@
+[{
+  "_id": {
+    "$oid": "67499e6c6bf4d3f43f14a4ca"
+  },
+  "nom": "Expelliarmus",
+  "categorie": "Défensif",
+  "niveauDifficulte": 3,
+  "description": "Sort de désarmement.",
+  "dateCreation": "2024-11-29T00:00:00.000Z",
+  "estInterdit": false,
+  "tags": [
+    "duel",
+    "protection"
+  ],
+  "puissance": 5
+},
+{
+  "_id": {
+    "$oid": "674b075e4316e33550056566"
+  },
+  "nom": "Vulnera Sanentur",
+  "categorie": "Curatif",
+  "niveauDifficulte": 4,
+  "description": "Referme les plaies sanglantes et profondes. Severus Rogue l'utilise sur Drago Malefoy après que Harry lui a lancé le Sectumsempra.",
+  "dateCreation": {
+    "$date": "2024-11-29T00:00:00.000Z"
+  },
+  "estInterdit": false,
+  "tags": [
+    "Harry Potter",
+    "Curatif",
+    "Prince de Sang-Mêlé"
+  ],
+  "puissance": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674b088f4316e33550056568"
+  },
+  "nom": "Lumos Maxima",
+  "categorie": "Utilitaire",
+  "niveauDifficulte": 2,
+  "description": "Génère une lumière intense, idéale pour éclairer de grandes zones sombres.",
+  "dateCreation": {
+    "$date": "2024-11-30T00:00:00.000Z"
+  },
+  "estInterdit": false,
+  "tags": [
+    "Éclairage",
+    "Utilitaire",
+    "Harry Potter"
+  ],
+  "puissance": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dd7f476819fd24db51460"
+  },
+  "nom": "Wingardium Leviosa",
+  "categorie": "Utilitaire",
+  "niveauDifficulte": 2,
+  "description": "Permet de faire léviter des objets en prononçant correctement la formule. Hermione corrige Ron : 'Ce n'est pas Levio-sa, mais Levio-sa !'",
+  "dateCreation": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "estInterdit": false,
+  "tags": [
+    "Lévitation",
+    "Charme",
+    "Hogwarts"
+  ],
+  "puissance": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674de78c76819fd24db51462"
+  },
+  "nom": "Avada Kedavra",
+  "categorie": "Offensif",
+  "niveauDifficulte": 10,
+  "description": "Le sortilège de la mort, utilisé pour tuer instantanément sa cible.",
+  "dateCreation": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "estInterdit": true,
+  "tags": [
+    "Interdit",
+    "Mort",
+    "Offensif"
+  ],
+  "puissance": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674de79e76819fd24db51464"
+  },
+  "nom": "Crucio",
+  "categorie": "Offensif",
+  "niveauDifficulte": 9,
+  "description": "Un sortilège impardonnable qui inflige une douleur insoutenable à sa cible.",
+  "dateCreation": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "estInterdit": true,
+  "tags": [
+    "Interdit",
+    "Douleur",
+    "Offensif"
+  ],
+  "puissance": 9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674de7a576819fd24db51466"
+  },
+  "nom": "Imperio",
+  "categorie": "Utilitaire",
+  "niveauDifficulte": 8,
+  "description": "Permet de prendre le contrôle total de la volonté d'une autre personne.",
+  "dateCreation": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "estInterdit": true,
+  "tags": [
+    "Interdit",
+    "Contrôle",
+    "Utilitaire"
+  ],
+  "puissance": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674de7ac76819fd24db51468"
+  },
+  "nom": "Expecto Patronum",
+  "categorie": "Défensif",
+  "niveauDifficulte": 7,
+  "description": "Crée un Patronus pour se protéger contre les Détraqueurs.",
+  "dateCreation": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  },
+  "estInterdit": false,
+  "tags": [
+    "Défense",
+    "Patronus",
+    "Détraqueurs"
+  ],
+  "puissance": 9,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675e337c50c7fd811bda91d4"
+  },
+  "nom": "Alohomora",
+  "categorie": "Utilitaire",
+  "niveauDifficulte": 1,
+  "description": "Permet d'ouvrir des portes verrouillées ou des cadenas.",
+  "dateCreation": "2024-12-02T00:00:00.000Z",
+  "estInterdit": false,
+  "tags": [
+    "Ouverture",
+    "Utilitaire",
+    "Hogwarts"
+  ],
+  "puissance": 2
+},
+{
+  "_id": {
+    "$oid": "675e337c50c7fd811bda91d5"
+  },
+  "nom": "Obliviate",
+  "categorie": "Utilitaire",
+  "niveauDifficulte": 6,
+  "description": "Efface ou modifie les souvenirs d'une personne.",
+  "dateCreation": "2024-12-02T00:00:00.000Z",
+  "estInterdit": false,
+  "tags": [
+    "Mémoire",
+    "Modification",
+    "Sortilège"
+  ],
+  "puissance": 7
+},
+{
+  "_id": {
+    "$oid": "675e337c50c7fd811bda91d6"
+  },
+  "nom": "Rictusempra",
+  "categorie": "Offensif",
+  "niveauDifficulte": 4,
+  "description": "Provoque un chatouillement intense pour déstabiliser l'adversaire.",
+  "dateCreation": "2024-12-02T00:00:00.000Z",
+  "estInterdit": false,
+  "tags": [
+    "Duel",
+    "Sort mineur",
+    "Offensif"
+  ],
+  "puissance": 4
+},
+{
+  "_id": {
+    "$oid": "675e337c50c7fd811bda91d7"
+  },
+  "nom": "Stupefy",
+  "categorie": "Défensif",
+  "niveauDifficulte": 5,
+  "description": "Étordit temporairement la cible, la rendant inoffensive.",
+  "dateCreation": "2024-12-02T00:00:00.000Z",
+  "estInterdit": false,
+  "tags": [
+    "Duel",
+    "Protection",
+    "Défensif"
+  ],
+  "puissance": 6
+},
+{
+  "_id": {
+    "$oid": "675e337c50c7fd811bda91d8"
+  },
+  "nom": "Protego",
+  "categorie": "Défensif",
+  "niveauDifficulte": 3,
+  "description": "Crée un bouclier magique pour se protéger des attaques.",
+  "dateCreation": "2024-12-02T00:00:00.000Z",
+  "estInterdit": false,
+  "tags": [
+    "Bouclier",
+    "Protection",
+    "Défensif"
+  ],
+  "puissance": 5
+},
+{
+  "_id": {
+    "$oid": "675e337c50c7fd811bda91d9"
+  },
+  "nom": "Accio",
+  "categorie": "Utilitaire",
+  "niveauDifficulte": 2,
+  "description": "Permet d'attirer un objet vers soi.",
+  "dateCreation": "2024-12-02T00:00:00.000Z",
+  "estInterdit": false,
+  "tags": [
+    "Invocation",
+    "Objet",
+    "Utilitaire"
+  ],
+  "puissance": 3
+},
+{
+  "_id": {
+    "$oid": "675e337c50c7fd811bda91da"
+  },
+  "nom": "Petrificus Totalus",
+  "categorie": "Offensif",
+  "niveauDifficulte": 4,
+  "description": "Paralyse complètement la cible.",
+  "dateCreation": "2024-12-02T00:00:00.000Z",
+  "estInterdit": false,
+  "tags": [
+    "Duel",
+    "Paralysie",
+    "Offensif"
+  ],
+  "puissance": 6
+},
+{
+  "_id": {
+    "$oid": "675e337c50c7fd811bda91db"
+  },
+  "nom": "Reducto",
+  "categorie": "Offensif",
+  "niveauDifficulte": 5,
+  "description": "Permet de réduire un objet en poussière.",
+  "dateCreation": "2024-12-02T00:00:00.000Z",
+  "estInterdit": false,
+  "tags": [
+    "Destruction",
+    "Offensif",
+    "Sort puissant"
+  ],
+  "puissance": 7
+},
+{
+  "_id": {
+    "$oid": "675e337c50c7fd811bda91dc"
+  },
+  "nom": "Sectumsempra",
+  "categorie": "Offensif",
+  "niveauDifficulte": 9,
+  "description": "Inflige des coupures profondes et sanglantes à l'adversaire.",
+  "dateCreation": "2024-12-02T00:00:00.000Z",
+  "estInterdit": true,
+  "tags": [
+    "Danger",
+    "Interdit",
+    "Offensif"
+  ],
+  "puissance": 10
+},
+{
+  "_id": {
+    "$oid": "675e337c50c7fd811bda91dd"
+  },
+  "nom": "Finite Incantatem",
+  "categorie": "Utilitaire",
+  "niveauDifficulte": 4,
+  "description": "Annule les effets d'autres sorts.",
+  "dateCreation": "2024-12-02T00:00:00.000Z",
+  "estInterdit": false,
+  "tags": [
+    "Annulation",
+    "Utilitaire",
+    "Hogwarts"
+  ],
+  "puissance": 4
+}]

@@ -1,0 +1,35 @@
+{
+  "name": "projet-dev-web3",
+  "version": "1.0.0",
+  "description": "Projet de Dev Web 3 en TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^22.10.1",
+    "jasmine": "^5.5.0",
+    "netlify-cli": "^17.38.0",
+    "supertest": "^7.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.8.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "inserturlparams": "^2.0.5",
+    "jet-validator": "^1.1.1",
+    "mongoose": "^8.8.3",
+    "serverless-http": "^3.2.0"
+  }
+}
